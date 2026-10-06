@@ -1,0 +1,56 @@
+** Drc report for second_project.kicad_pcb **
+** Created on 2026-10-06T19:22:29 **
+** Report includes: Errors, Warnings **
+
+** Found 9 DRC violations **
+[items_not_allowed]: Items not allowed
+    Local override; error
+    @(107.6000 mm, 88.0050 mm): Track [Net-(A1-GPIO12)] on B.Cu, length 6.7741 mm
+[starved_thermal]: Bölgeye termal rölyef bağlantısı eksik (katman F.Cu; bölge bağlantı kolu sayısı 2; gerçek 1)
+    Local override; error
+    @(173.5000 mm, 116.0000 mm): Zone 'asadas' [GND] on F.Cu and B.Cu, priority 0
+    @(87.3500 mm, 82.1100 mm): PTH pad 13 [GND] of A1
+[starved_thermal]: Bölgeye termal rölyef bağlantısı eksik (katman B.Cu; bölge bağlantı kolu sayısı 2; gerçek 1)
+    Local override; error
+    @(173.5000 mm, 116.0000 mm): Zone 'asadas' [GND] on F.Cu and B.Cu, priority 0
+    @(100.0500 mm, 100.6900 mm): Pad 23 [GND] of A1 on B.Cu
+[starved_thermal]: Bölgeye termal rölyef bağlantısı eksik (katman B.Cu; bölge bağlantı kolu sayısı 2; gerçek 1)
+    Local override; error
+    @(173.5000 mm, 116.0000 mm): Zone 'asadas' [GND] on F.Cu and B.Cu, priority 0
+    @(100.0500 mm, 99.8900 mm): PTH pad 23 [GND] of A1
+[starved_thermal]: Bölgeye termal rölyef bağlantısı eksik (katman F.Cu; bölge bağlantı kolu sayısı 2; gerçek 1)
+    Local override; error
+    @(173.5000 mm, 116.0000 mm): Zone 'asadas' [GND] on F.Cu and B.Cu, priority 0
+    @(120.5000 mm, 98.2500 mm): PTH pad C [GND] of SW13
+[starved_thermal]: Bölgeye termal rölyef bağlantısı eksik (katman B.Cu; bölge bağlantı kolu sayısı 2; gerçek 1)
+    Local override; error
+    @(173.5000 mm, 116.0000 mm): Zone 'asadas' [GND] on F.Cu and B.Cu, priority 0
+    @(100.0500 mm, 82.1100 mm): PTH pad 18 [GND] of A1
+[starved_thermal]: Bölgeye termal rölyef bağlantısı eksik (katman F.Cu; bölge bağlantı kolu sayısı 2; gerçek 1)
+    Local override; error
+    @(173.5000 mm, 116.0000 mm): Zone 'asadas' [GND] on F.Cu and B.Cu, priority 0
+    @(87.0400 mm, 109.4200 mm): PTH pad 1 [GND] of SW2
+[starved_thermal]: Bölgeye termal rölyef bağlantısı eksik (katman B.Cu; bölge bağlantı kolu sayısı 2; gerçek 1)
+    Local override; error
+    @(173.5000 mm, 116.0000 mm): Zone 'asadas' [GND] on F.Cu and B.Cu, priority 0
+    @(100.0500 mm, 81.3100 mm): Pad 18 [GND] of A1 on B.Cu
+[lib_footprint_mismatch]: 'RaspberryPi_Pico_Common_Unspecified' ayak izi, 'Module' kütüphanesindeki kopyasıyla eşleşmiyor
+    Local override; warning
+    @(81.0000 mm, 91.0000 mm): Footprint A1
+
+** Found 1 unconnected pads **
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(86.4200 mm, 75.0000 mm): PTH pad 2 [Net-(A1-3V3)] of J1
+    @(67.0300 mm, 99.8900 mm): PTH pad 36 [Net-(A1-3V3)] of A1
+
+** Found 0 Footprint errors **
+
+** Ignored checks **
+    - Footprint has no courtyard defined
+    - Track endpoint not centered on via
+    - Tuning profile track geometries
+    - Footprint doesn't match symbol's footprint filters
+    - Footprint component type doesn't match footprint pads
+
+** End of Report **
