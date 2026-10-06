@@ -35,3 +35,5 @@ Designed for macro execution, volume control, layer switching, and media control
 * **KiCad Routing:** 0 DRC Errors / 0 DRC Warnings.
 * **Trace Widths:** 0.2mm for signals, 0.4–0.5mm for power lines.
 * **Firmware Target:** KMK Firmware / CircuitPython.
+* <img width="899" height="1599" alt="0641debc-669c-422e-b536-47e93507a218" src="https://github.com/user-attachments/assets/4d2f752b-871c-4d80-b40d-6458186aa66e" />
+
