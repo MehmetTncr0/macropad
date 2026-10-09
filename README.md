@@ -35,5 +35,13 @@ Designed for macro execution, volume control, layer switching, and media control
 * **KiCad Routing:** 0 DRC Errors / 0 DRC Warnings.
 * **Trace Widths:** 0.2mm for signals, 0.4–0.5mm for power lines.
 * **Firmware Target:** KMK Firmware / CircuitPython.
-* <img width="899" height="1599" alt="0641debc-669c-422e-b536-47e93507a218" src="https://github.com/user-attachments/assets/4d2f752b-871c-4d80-b40d-6458186aa66e" />
+*<img width="799" height="775" alt="_5" src="https://github.com/user-attachments/assets/d69b513c-6884-48ec-8864-6578356bbc1e" />
+<img width="792" height="779" alt="_4" src="https://github.com/user-attachments/assets/424e70a7-2bad-44ab-85c1-beae511e8cf8" />
+<img width="521" height="514" alt="_3" src="https://github.com/user-attachments/assets/a64772e1-b03d-4e38-baab-4109c34281d4" />
+<img width="532" height="522" alt="_2" src="https://github.com/user-attachments/assets/51f7f4ff-6bd4-4b74-b53e-3165fd5550fe" />
+<img width="921" height="512" alt="_1" src="https://github.com/user-attachments/assets/68563cd2-cf58-41ea-81c8-593440b6b18d" />
+<img width="502" height="595" alt="_7" src="https://github.com/user-attachments/assets/761311fa-5b90-40d1-bbfc-6993df33389d" />
+<img width="476" height="550" alt="_6" src="https://github.com/user-attachments/assets/1701399c-775a-4dee-bb3a-663b48664fe7" />
+
+
 
