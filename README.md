@@ -6,7 +6,7 @@ Designed for macro execution, volume control, layer switching, and media control
 
 ---
 
-## 🛠️ Features & Hardware
+## 🛠️ Hardware
 
 * **Brain:** Raspberry Pi Pico (RP2040)
 * **Keys:** 12x Mechanical Switches (3x4 Matrix)
@@ -16,7 +16,26 @@ Designed for macro execution, volume control, layer switching, and media control
   * 1x 10k Potentiometer (analog input)
 * **PCB Specs:** 2-Layer FR4 | 1.6mm thickness | Dual-sided GND plane
 
----
+## 🛠️ Features
+* Volume level control via potantiometer
+* Output device control via potantiometer switch
+* All sound settings on one component
+-------------------------------------
+* Refeaturable 12 Mechanical Switches with rgb lights
+* Switch1 => Changes RGB mode
+* Switch2 => Changes RGB color
+* Switch3 => Turn on/off the microphone
+* Switch4 => Alt + Tab Hotkey
+* Switch5 => Windows + Shift + S Hotkey
+* Switch6 => " Hotkey because I don't have that in my own keyboard
+* Switch7 => to continue or pause the song/video
+* Switch8 => turns volume to zero instantly
+* switch9 => opens youtube
+* switch10 => opens google
+* switch11 => runs cmd
+* switch12 => turns off the light
+
+----------------------------------
 
 ## 📦 Bill of Materials (BOM)
 
