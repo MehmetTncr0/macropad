@@ -19,7 +19,7 @@
 | [Rotary Encoder](https://www.robotistan.com/metal-rotary-encoder-rotary-potansiyometre-ve-pot-basligi) | To control volume | 1 | $2.01 | $2.01 | [Robotistan](https://www.robotistan.com/metal-rotary-encoder-rotary-potansiyometre-ve-pot-basligi) |
 | [Female header](https://www.robotistan.com/10-pin-disi-header) | to create a more practical plug-and-play PCB | 3 | $0.06 | $0.18 | [Robotistan](https://www.robotistan.com/10-pin-disi-header) |
 | **Parts subtotal** | — | — | — | **$39.69** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$39.69** | — |
+| **Tax & shipping** | — | — | — | **$3.05** | — |
+| **Total** | — | — | — | **$42.74** | — |
 
-$25.31 left of the tier's funding.
+$22.26 left of the tier's funding.
